@@ -36,7 +36,8 @@
 
 Программа автоматически обработает все файлы из папки **data** с шириной строки 70 и выведет результат в консоль.
 
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1d93ff9-54f5-4694-9618-c3a8b6c4b8b2" />
+
 
 
 ### Тестовые данные
